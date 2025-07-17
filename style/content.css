@@ -84,7 +84,17 @@
     background-color: var(--neutral-900);
 }
 /*icon 間距*/
-.bi{
+.bi-heart{
+    font-size: 20px; /*新增 icon 大小為 20px*/
+    padding: 2px 0px; /*新增上下 padding 2px*/
+    margin-right: 8px;
+}
+.bi-heart-fill{
+    font-size: 20px; /*新增 icon 大小為 20px*/
+    padding: 2px 0px; /*新增上下 padding 2px*/
+    margin-right: 8px;
+}
+.bi-handbag{
     font-size: 20px; /*新增 icon 大小為 20px*/
     padding: 2px 0px; /*新增上下 padding 2px*/
     margin-right: 8px;
