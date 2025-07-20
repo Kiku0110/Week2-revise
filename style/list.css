@@ -59,6 +59,9 @@
 .btn-item .page:hover{
 	background-color: var(--primary-300);
 }
+.btn-item .right{
+	cursor: default;
+}
 
 /*橫幅縮排、顏色*/
 .banner{
